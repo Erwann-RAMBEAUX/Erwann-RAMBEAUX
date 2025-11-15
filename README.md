@@ -26,6 +26,8 @@ I'm a Software Engineer and M.Sc. student based in France, passionate about buil
 
 My main focus right now is **ChessChronicles**, a full-stack web platform for chess game analysis using the Chess.com API. The backend is a **Python (Flask)** REST API, and the frontend is an interactive dashboard built with **React** and **TypeScript**.
 
+The project is deployed at **[chesschronicles.com](https://chesschronicles.com)** (still a work in progress).
+
 <br>
 
 ## 🚀 My Featured Projects
